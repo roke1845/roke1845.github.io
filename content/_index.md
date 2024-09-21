@@ -1,58 +1,47 @@
 ---
-header_brand: "Auto Sticker Haven, Inc."
+header_brand: "Auto Sticker Haven"
 header_tagline_paragraph: "At Auto Sticker Haven, we specialize in offering high-quality, unique car stickers that help you personalize your vehicle. Our designs range from classic car emblems to fun, creative illustrations. We are dedicated to helping car enthusiasts express their style and individuality through our products."
 header_button_cta:
-  url: "#contact-form"
-  title: "Get in touch"
+  url: "#who-we-are"
+  title: "Who we are"
 header_button_more:
-  url: "#the-future---today"
-  title: "Test"
+  url: "#product"
+  title: "Product"
 header_button_more_2:
-  url: "#the-future---today"
-  title: "RRRR"
+  url: "#contact-us"
+  title: "Contact Us"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
-# The Future - Today!
+# Who We Are
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
-
----
-
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
-
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+At Auto Sticker Haven, we specialize in offering high-quality, unique car stickers that help you personalize your vehicle. Our designs range from classic car emblems to fun, creative illustrations. We are dedicated to helping car enthusiasts express their style and individuality through our products.
 
 ---
 
-# Prototype
+# Product
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+Our wide range of car stickers includes:
 
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+Sport-themed car stickers
+Customizable name tags
+Minimalistic decals for a sleek look
+Bold and colorful designs
+Each sticker is made from durable, weather-resistant material to ensure long-lasting use.
 
-Check out this sweet preview. Impressed much, are you?
-
----
-
-# Imprint & Privacy Policy
-
-Let's keep it simple. This is our contact information:
-
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
-
-E-mail: jane@doe.net
-Phone: 580-689-0577
-
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+![Product](images/product.jpg)
 
 ---
 
-# Stay in touch
+# Our Mission
 
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
+Our mission is to provide car enthusiasts with affordable, high-quality stickers that allow them to showcase their personality. We aim to inspire creativity and help you stand out on the road with stylish, unique designs.
 
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+---
+
+# Contact Us
+
+We'd love to hear from you! You can reach us at:
+
+Email: support@autostickerhaven.com
+Phone: +1 (800) 123-4567
