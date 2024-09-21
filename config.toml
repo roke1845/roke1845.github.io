@@ -1,4 +1,4 @@
-baseURL = "https://roke1845.github.io/"
+baseURL = "https://roke1845.github.io"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
@@ -17,7 +17,6 @@ title = "Builders Of The Future, Inc."
     [markup.goldmark]
         [markup.goldmark.renderer]
             hardWraps = true
-
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
