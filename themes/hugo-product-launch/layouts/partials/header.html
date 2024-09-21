@@ -17,6 +17,9 @@
           {{ with .Params.header_button_more }}
             {{- partial "header/button_more.html" . -}}
           {{ end }}
+          {{ with .Params.header_button_more_2 }}
+            {{- partial "header/button_more_2.html" . -}}
+          {{ end }}
         </div>
       </div>
       {{ with .Params.teaser_image }}
