@@ -7,6 +7,9 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: "Test"
+header_button_more_2:
+  url: "#the-future---today"
+  title: "RRRR"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
